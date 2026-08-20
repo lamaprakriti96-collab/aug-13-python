@@ -84,12 +84,12 @@ else:
 
 
 
-a = [1, 2, 3, 4, 5]
+a = [1, 2, 3, 4, 7]
 print(a)
 print(type(a))
 
 
-a=["Hello" , 1,1.4,True]
+a=["Hello" , 1,3.4,True]
 print(a[-2] )
 
 
